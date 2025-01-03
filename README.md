@@ -1,5 +1,7 @@
-Fala cmg bebe nois
+Fala cmg bebe e nois
 OLha ele ai
 legal
 salvando modificacoes
-opa
+uso do comando restore
+salvando alterações do git
+comando git push
